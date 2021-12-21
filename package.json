@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-unit-testing",
+  "version": "1.0.0",
+  "description": "Nodejs Unit Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codragon2020/nodejs-unit-testing.git"
+  },
+  "author": "Jason McGinthy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codragon2020/nodejs-unit-testing/issues"
+  },
+  "homepage": "https://github.com/codragon2020/nodejs-unit-testing#readme",
+  "devDependencies": {
+    "chai": "^4.3.4"
+  }
+}
